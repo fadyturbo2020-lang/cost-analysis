@@ -1,0 +1,721 @@
+CostID,Date,Department,CostType,Vendor,Amount
+50000,2025-06-15,Logistics,Logistics,Nile Logistics,1031.8
+50001,2025-10-02,Admin,COGS,Alex Packaging,3695.99
+50002,2025-09-17,Operations,Logistics,Nile Logistics,2187.67
+50003,2025-02-05,Operations,Logistics,Swift Freight,989.15
+50004,2025-10-17,Sales & Marketing,COGS,Alex Packaging,10529.2
+50005,2025-02-01,Logistics,Rent,Smart Office Rentals,11857.53
+50006,2025-01-24,Sales & Marketing,Rent,Smart Office Rentals,8514.83
+50007,2025-10-04,Admin,COGS,Alex Packaging,12793.52
+50008,2025-04-03,Sales & Marketing,COGS,Nile Foods Trading,4169.17
+50009,2025-12-31,Operations,COGS,Alex Packaging,5471.5
+50010,2025-12-15,Logistics,Rent,Smart Office Rentals,8793.61
+50011,2025-08-21,Admin,Marketing,Cairo Ad Media,7457.85
+50012,2025-12-24,Sales & Marketing,Software,CloudHost EG,1893.5
+50013,2025-09-26,Admin,Salaries,Internal Payroll,17182.88
+50014,2025-02-07,Logistics,COGS,Delta Supplies Co.,12085.69
+50015,2025-03-19,Logistics,Salaries,Internal Payroll,29316.34
+50016,2025-02-09,Admin,Software,OfficeSuite Ltd,2207.77
+50017,2025-11-01,Logistics,Salaries,Internal Payroll,27119.42
+50018,2025-05-19,Operations,Salaries,Internal Payroll,25160.87
+50019,2025-06-08,Logistics,Utilities,City Utilities,1989.93
+50020,2025-12-09,Operations,Marketing,SocialReach Agency,4165.98
+50021,2025-11-09,Logistics,COGS,Delta Supplies Co.,5618.49
+50022,2025-05-28,Sales & Marketing,Logistics,Swift Freight,2051.04
+50023,2025-09-12,Sales & Marketing,COGS,Nile Foods Trading,7819.73
+50024,2025-05-23,Logistics,Logistics,Swift Freight,3060.47
+50025,2025-07-03,Logistics,Utilities,City Utilities,971.66
+50026,2025-04-01,Sales & Marketing,Logistics,Nile Logistics,838.6
+50027,2025-10-29,Admin,Logistics,Swift Freight,813.1
+50028,2025-08-03,Admin,Rent,Smart Office Rentals,11718.59
+50029,2025-12-20,Operations,Software,OfficeSuite Ltd,2738.79
+50030,2025-12-15,Logistics,Software,OfficeSuite Ltd,1437.34
+50031,2025-02-23,Logistics,Salaries,Internal Payroll,15430.97
+50032,2025-04-17,Sales & Marketing,Salaries,Internal Payroll,18120.97
+50033,2025-01-27,Operations,COGS,Alex Packaging,4815.18
+50034,2025-02-21,Operations,Marketing,Cairo Ad Media,8057.49
+50035,2025-11-11,Sales & Marketing,Salaries,Internal Payroll,29198.42
+50036,2025-11-05,Logistics,Marketing,Cairo Ad Media,2365.15
+50037,2025-09-07,Logistics,Salaries,Internal Payroll,17613.34
+50038,2025-03-15,Admin,COGS,Alex Packaging,6177.08
+50039,2025-12-21,Operations,Logistics,Nile Logistics,3843.15
+50040,2025-09-28,Sales & Marketing,Marketing,Cairo Ad Media,7186.07
+50041,2025-06-02,Operations,Utilities,City Utilities,1633.11
+50042,2025-03-27,Sales & Marketing,Marketing,SocialReach Agency,6273.31
+50043,2025-11-10,Sales & Marketing,Software,CloudHost EG,2527.67
+50044,2025-04-27,Logistics,Logistics,Swift Freight,3139.21
+50045,2025-01-15,Admin,Software,OfficeSuite Ltd,1073.85
+50046,2025-12-21,Admin,Rent,Smart Office Rentals,10851.39
+50047,2025-06-28,Operations,Marketing,Cairo Ad Media,2266.18
+50048,2025-08-29,Admin,Logistics,Nile Logistics,2344.49
+50049,2025-11-09,Operations,Software,OfficeSuite Ltd,2763.92
+50050,2025-06-26,Operations,Software,CloudHost EG,2765.42
+50051,2025-12-31,Sales & Marketing,Software,OfficeSuite Ltd,2711.43
+50052,2025-08-11,Admin,Software,CloudHost EG,2482.14
+50053,2025-07-22,Logistics,Salaries,Internal Payroll,25046.38
+50054,2025-03-29,Operations,Logistics,Nile Logistics,2690.6
+50055,2025-08-27,Sales & Marketing,Software,OfficeSuite Ltd,2108.9
+50056,2025-06-29,Sales & Marketing,Logistics,Nile Logistics,845.58
+50057,2025-11-29,Sales & Marketing,COGS,Nile Foods Trading,14838.59
+50058,2025-04-10,Sales & Marketing,Software,CloudHost EG,1054.77
+50059,2025-05-30,Sales & Marketing,Rent,Smart Office Rentals,7556.19
+50060,2025-08-03,Sales & Marketing,Software,CloudHost EG,2766.04
+50061,2025-07-01,Logistics,Salaries,Internal Payroll,21572.85
+50062,2025-09-26,Operations,Rent,Smart Office Rentals,10659.04
+50063,2025-11-08,Sales & Marketing,COGS,Delta Supplies Co.,4698.71
+50064,2025-11-13,Operations,Utilities,City Utilities,1286.77
+50065,2025-09-23,Logistics,Rent,Smart Office Rentals,11299.37
+50066,2025-01-30,Sales & Marketing,Logistics,Swift Freight,935.04
+50067,2025-02-20,Logistics,Rent,Smart Office Rentals,10559.96
+50068,2025-02-02,Admin,Salaries,Internal Payroll,24469.16
+50069,2025-08-20,Logistics,Rent,Smart Office Rentals,10195.31
+50070,2025-05-13,Sales & Marketing,Rent,Smart Office Rentals,6822.81
+50071,2025-03-04,Logistics,Salaries,Internal Payroll,13305.83
+50072,2025-05-04,Operations,Salaries,Internal Payroll,24050.5
+50073,2025-03-04,Sales & Marketing,Software,OfficeSuite Ltd,771.75
+50074,2025-03-12,Sales & Marketing,Salaries,Internal Payroll,19168.62
+50075,2025-09-07,Sales & Marketing,Logistics,Nile Logistics,3060.24
+50076,2025-09-21,Admin,Salaries,Internal Payroll,15523.4
+50077,2025-06-13,Admin,COGS,Delta Supplies Co.,7055.76
+50078,2025-08-23,Operations,Salaries,Internal Payroll,17966.96
+50079,2025-11-16,Operations,Marketing,Cairo Ad Media,8888.12
+50080,2025-04-28,Operations,COGS,Nile Foods Trading,6263.05
+50081,2025-04-03,Sales & Marketing,Marketing,SocialReach Agency,7871.91
+50082,2025-12-13,Admin,Software,OfficeSuite Ltd,788.36
+50083,2025-09-21,Logistics,Rent,Smart Office Rentals,6536.77
+50084,2025-01-30,Sales & Marketing,Software,OfficeSuite Ltd,2727.74
+50085,2025-05-18,Operations,COGS,Nile Foods Trading,4004.91
+50086,2025-04-24,Admin,COGS,Delta Supplies Co.,8445.28
+50087,2025-06-23,Logistics,Rent,Smart Office Rentals,9730.22
+50088,2025-01-23,Sales & Marketing,Rent,Smart Office Rentals,11815.28
+50089,2025-05-15,Sales & Marketing,COGS,Delta Supplies Co.,14186.96
+50090,2025-11-18,Sales & Marketing,Marketing,SocialReach Agency,4842.65
+50091,2025-12-11,Admin,Logistics,Swift Freight,3371.77
+50092,2025-05-09,Operations,COGS,Delta Supplies Co.,11796.96
+50093,2025-10-10,Logistics,Logistics,Nile Logistics,3790.86
+50094,2025-02-24,Logistics,Utilities,City Utilities,1682.63
+50095,2025-07-21,Admin,Rent,Smart Office Rentals,11894.64
+50096,2025-06-25,Sales & Marketing,Logistics,Swift Freight,3966.2
+50097,2025-01-28,Sales & Marketing,Software,CloudHost EG,583.88
+50098,2025-05-11,Sales & Marketing,Salaries,Internal Payroll,13520.73
+50099,2025-07-15,Admin,Software,CloudHost EG,2200.98
+50100,2025-01-24,Sales & Marketing,Salaries,Internal Payroll,16842.66
+50101,2025-01-02,Admin,Marketing,SocialReach Agency,8794.67
+50102,2025-10-08,Sales & Marketing,Marketing,Cairo Ad Media,8742.5
+50103,2025-06-08,Admin,Logistics,Nile Logistics,803.42
+50104,2025-07-15,Logistics,COGS,Nile Foods Trading,9033.17
+50105,2025-04-13,Operations,Logistics,Nile Logistics,1645.34
+50106,2025-02-15,Logistics,Logistics,Nile Logistics,2060.73
+50107,2025-06-03,Sales & Marketing,Marketing,Cairo Ad Media,5891.87
+50108,2025-09-28,Sales & Marketing,Software,OfficeSuite Ltd,2387.21
+50109,2025-09-11,Admin,Logistics,Nile Logistics,940.12
+50110,2025-09-20,Logistics,Utilities,City Utilities,2337.8
+50111,2025-09-16,Operations,Rent,Smart Office Rentals,6510.55
+50112,2025-01-22,Admin,Logistics,Nile Logistics,2005.18
+50113,2025-08-20,Operations,Rent,Smart Office Rentals,9757.36
+50114,2025-12-15,Logistics,Logistics,Swift Freight,810.61
+50115,2025-02-05,Operations,Utilities,City Utilities,2042.31
+50116,2025-08-31,Operations,Marketing,SocialReach Agency,3260.89
+50117,2025-04-16,Logistics,Logistics,Swift Freight,3505.7
+50118,2025-02-09,Admin,Salaries,Internal Payroll,23105.53
+50119,2025-11-26,Operations,Logistics,Nile Logistics,1861.67
+50120,2025-11-30,Admin,Utilities,City Utilities,722.44
+50121,2025-02-01,Admin,Salaries,Internal Payroll,24459.33
+50122,2025-12-12,Admin,Salaries,Internal Payroll,20363.93
+50123,2025-08-27,Operations,Software,CloudHost EG,1210.35
+50124,2025-02-13,Operations,Salaries,Internal Payroll,20261.47
+50125,2025-09-17,Admin,Salaries,Internal Payroll,15777.07
+50126,2025-04-18,Operations,COGS,Delta Supplies Co.,11969.83
+50127,2025-05-15,Sales & Marketing,Marketing,SocialReach Agency,8151.47
+50128,2025-12-27,Sales & Marketing,Marketing,SocialReach Agency,8232.79
+50129,2025-09-06,Operations,Salaries,Internal Payroll,12064.63
+50130,2025-09-09,Logistics,Utilities,City Utilities,1243.51
+50131,2025-03-14,Admin,Salaries,Internal Payroll,17689.4
+50132,2025-06-19,Admin,COGS,Nile Foods Trading,13069.33
+50133,2025-03-03,Operations,Logistics,Swift Freight,1610.28
+50134,2025-02-03,Logistics,Salaries,Internal Payroll,18492.77
+50135,2025-08-08,Admin,Software,CloudHost EG,1129.66
+50136,2025-01-27,Admin,Software,CloudHost EG,1048.24
+50137,2025-05-17,Admin,Salaries,Internal Payroll,25917.31
+50138,2025-08-08,Logistics,COGS,Alex Packaging,9590.74
+50139,2025-02-11,Logistics,COGS,Nile Foods Trading,10378.97
+50140,2025-03-12,Admin,Utilities,City Utilities,788.16
+50141,2025-10-09,Sales & Marketing,Logistics,Swift Freight,2127.57
+50142,2025-05-25,Admin,Marketing,SocialReach Agency,4546.57
+50143,2025-05-03,Logistics,Marketing,SocialReach Agency,2398.07
+50144,2025-11-26,Operations,Logistics,Nile Logistics,2401.94
+50145,2025-09-12,Sales & Marketing,Rent,Smart Office Rentals,11437.56
+50146,2025-08-19,Sales & Marketing,Salaries,Internal Payroll,16393.54
+50147,2025-03-31,Operations,Marketing,SocialReach Agency,3293.45
+50148,2025-05-13,Sales & Marketing,Software,CloudHost EG,2349.11
+50149,2025-07-31,Logistics,Salaries,Internal Payroll,18783.58
+50150,2025-06-23,Operations,Software,OfficeSuite Ltd,1121.54
+50151,2025-07-04,Sales & Marketing,Logistics,Nile Logistics,1667.27
+50152,2025-05-08,Logistics,Salaries,Internal Payroll,19773.06
+50153,2025-06-09,Operations,Software,CloudHost EG,483.83
+50154,2025-12-30,Logistics,Software,OfficeSuite Ltd,400.46
+50155,2025-07-20,Logistics,Software,OfficeSuite Ltd,1046.01
+50156,2025-02-25,Sales & Marketing,Logistics,Nile Logistics,2471.57
+50157,2025-12-16,Logistics,COGS,Delta Supplies Co.,9618.01
+50158,2025-01-21,Sales & Marketing,COGS,Delta Supplies Co.,9832.59
+50159,2025-01-20,Admin,Utilities,City Utilities,1827.65
+50160,2025-09-28,Logistics,Utilities,City Utilities,879.0
+50161,2025-06-03,Sales & Marketing,Rent,Smart Office Rentals,7565.29
+50162,2025-11-04,Operations,COGS,Alex Packaging,6618.26
+50163,2025-08-24,Admin,Marketing,Cairo Ad Media,5064.78
+50164,2025-05-01,Sales & Marketing,Rent,Smart Office Rentals,11763.69
+50165,2025-12-27,Admin,Utilities,City Utilities,739.22
+50166,2025-09-13,Logistics,Utilities,City Utilities,1163.06
+50167,2025-12-08,Admin,Salaries,Internal Payroll,20872.98
+50168,2025-12-23,Logistics,Marketing,SocialReach Agency,6619.25
+50169,2025-04-12,Admin,COGS,Alex Packaging,13141.8
+50170,2025-02-04,Logistics,Logistics,Nile Logistics,1797.49
+50171,2025-04-10,Logistics,Logistics,Nile Logistics,1648.07
+50172,2025-06-01,Logistics,COGS,Alex Packaging,5247.76
+50173,2025-04-25,Logistics,Salaries,Internal Payroll,29077.7
+50174,2025-03-16,Operations,Salaries,Internal Payroll,12425.32
+50175,2025-11-02,Logistics,Logistics,Nile Logistics,3071.55
+50176,2025-04-05,Logistics,Salaries,Internal Payroll,25189.03
+50177,2025-02-10,Admin,Logistics,Nile Logistics,1393.64
+50178,2025-09-26,Logistics,Utilities,City Utilities,1261.29
+50179,2025-07-13,Admin,Software,OfficeSuite Ltd,1550.33
+50180,2025-02-25,Operations,COGS,Nile Foods Trading,3969.16
+50181,2025-08-04,Sales & Marketing,COGS,Nile Foods Trading,7279.55
+50182,2025-06-08,Logistics,Software,CloudHost EG,528.07
+50183,2025-08-31,Admin,Logistics,Swift Freight,1417.68
+50184,2025-07-06,Logistics,Utilities,City Utilities,1836.99
+50185,2025-05-07,Logistics,Software,CloudHost EG,1376.48
+50186,2025-08-26,Operations,COGS,Nile Foods Trading,5339.3
+50187,2025-02-02,Admin,Rent,Smart Office Rentals,7633.89
+50188,2025-11-12,Admin,COGS,Alex Packaging,11599.63
+50189,2025-06-12,Admin,Marketing,Cairo Ad Media,6911.79
+50190,2025-11-01,Operations,Software,CloudHost EG,2547.65
+50191,2025-02-24,Logistics,Salaries,Internal Payroll,26216.38
+50192,2025-08-09,Logistics,Software,CloudHost EG,2813.06
+50193,2025-04-04,Admin,COGS,Alex Packaging,12273.71
+50194,2025-11-07,Admin,Logistics,Swift Freight,2274.5
+50195,2025-11-02,Sales & Marketing,COGS,Nile Foods Trading,12034.63
+50196,2025-05-07,Operations,Salaries,Internal Payroll,20670.42
+50197,2025-10-06,Sales & Marketing,Marketing,SocialReach Agency,8126.06
+50198,2025-02-06,Operations,Marketing,Cairo Ad Media,2223.17
+50199,2025-09-13,Logistics,Utilities,City Utilities,1121.55
+50200,2025-08-02,Sales & Marketing,Salaries,Internal Payroll,26035.51
+50201,2025-05-31,Admin,Marketing,SocialReach Agency,4297.28
+50202,2025-05-14,Logistics,Logistics,Nile Logistics,1394.36
+50203,2025-05-01,Admin,Logistics,Nile Logistics,1844.28
+50204,2025-07-22,Sales & Marketing,Marketing,Cairo Ad Media,6372.3
+50205,2025-02-21,Logistics,Utilities,City Utilities,884.2
+50206,2025-09-01,Sales & Marketing,Software,OfficeSuite Ltd,2777.38
+50207,2025-01-21,Sales & Marketing,Marketing,Cairo Ad Media,1877.93
+50208,2025-11-04,Sales & Marketing,Software,CloudHost EG,1367.82
+50209,2025-04-02,Admin,Salaries,Internal Payroll,13904.04
+50210,2025-11-02,Admin,Utilities,City Utilities,767.42
+50211,2025-06-24,Operations,Logistics,Nile Logistics,3999.6
+50212,2025-01-20,Sales & Marketing,Rent,Smart Office Rentals,10913.0
+50213,2025-07-29,Admin,Utilities,City Utilities,1817.82
+50214,2025-02-09,Operations,Logistics,Swift Freight,2553.74
+50215,2025-02-02,Operations,Salaries,Internal Payroll,23952.48
+50216,2025-03-21,Operations,Utilities,City Utilities,1415.99
+50217,2025-05-19,Admin,Salaries,Internal Payroll,19521.22
+50218,2025-01-27,Admin,Marketing,SocialReach Agency,4623.34
+50219,2025-07-06,Sales & Marketing,Utilities,City Utilities,2010.46
+50220,2025-04-15,Logistics,COGS,Delta Supplies Co.,8085.06
+50221,2025-02-16,Admin,Salaries,Internal Payroll,25914.98
+50222,2025-03-08,Operations,COGS,Alex Packaging,4709.96
+50223,2025-07-23,Admin,COGS,Alex Packaging,9053.56
+50224,2025-03-16,Admin,Marketing,Cairo Ad Media,5408.69
+50225,2025-02-04,Logistics,COGS,Nile Foods Trading,12042.67
+50226,2025-04-12,Sales & Marketing,Marketing,Cairo Ad Media,8816.6
+50227,2025-09-05,Operations,Marketing,SocialReach Agency,2147.21
+50228,2025-12-31,Sales & Marketing,Rent,Smart Office Rentals,9726.32
+50229,2025-11-11,Sales & Marketing,Software,OfficeSuite Ltd,875.71
+50230,2025-04-22,Logistics,COGS,Alex Packaging,4877.75
+50231,2025-07-03,Sales & Marketing,COGS,Delta Supplies Co.,14648.31
+50232,2025-04-09,Operations,COGS,Alex Packaging,13058.45
+50233,2025-03-02,Logistics,Salaries,Internal Payroll,23682.5
+50234,2025-06-07,Sales & Marketing,Rent,Smart Office Rentals,8335.27
+50235,2025-07-08,Logistics,Salaries,Internal Payroll,12420.76
+50236,2025-11-13,Logistics,Salaries,Internal Payroll,20042.74
+50237,2025-11-13,Logistics,Software,CloudHost EG,2507.38
+50238,2025-07-24,Operations,COGS,Delta Supplies Co.,7302.9
+50239,2025-07-07,Logistics,COGS,Alex Packaging,9121.93
+50240,2025-01-21,Sales & Marketing,COGS,Delta Supplies Co.,14065.51
+50241,2025-06-10,Operations,Software,CloudHost EG,2355.35
+50242,2025-07-13,Sales & Marketing,Utilities,City Utilities,2242.73
+50243,2025-11-11,Operations,Utilities,City Utilities,936.91
+50244,2025-09-09,Sales & Marketing,Marketing,Cairo Ad Media,1991.37
+50245,2025-06-29,Admin,Rent,Smart Office Rentals,7943.03
+50246,2025-11-11,Logistics,Marketing,Cairo Ad Media,3406.21
+50247,2025-09-03,Admin,Logistics,Nile Logistics,1821.05
+50248,2025-01-19,Sales & Marketing,Logistics,Swift Freight,1315.93
+50249,2025-05-23,Admin,Utilities,City Utilities,1003.74
+50250,2025-05-16,Operations,COGS,Alex Packaging,13299.47
+50251,2025-08-20,Operations,Rent,Smart Office Rentals,11957.73
+50252,2025-11-19,Logistics,Software,OfficeSuite Ltd,1088.36
+50253,2025-07-08,Sales & Marketing,Rent,Smart Office Rentals,7984.97
+50254,2025-02-11,Sales & Marketing,Salaries,Internal Payroll,23076.73
+50255,2025-01-25,Admin,Marketing,SocialReach Agency,6294.28
+50256,2025-10-27,Admin,Utilities,City Utilities,2044.82
+50257,2025-04-24,Admin,Logistics,Swift Freight,2136.6
+50258,2025-07-06,Sales & Marketing,COGS,Nile Foods Trading,5727.12
+50259,2025-12-01,Operations,COGS,Delta Supplies Co.,3031.39
+50260,2025-07-01,Operations,Marketing,SocialReach Agency,5505.85
+50261,2025-07-31,Admin,Rent,Smart Office Rentals,7225.11
+50262,2025-11-16,Logistics,Software,CloudHost EG,750.35
+50263,2025-05-05,Sales & Marketing,Utilities,City Utilities,872.45
+50264,2025-11-23,Admin,Logistics,Swift Freight,3397.03
+50265,2025-01-06,Admin,COGS,Alex Packaging,10747.25
+50266,2025-08-16,Logistics,Rent,Smart Office Rentals,6990.59
+50267,2025-01-01,Operations,COGS,Alex Packaging,3302.7
+50268,2025-04-06,Sales & Marketing,Logistics,Nile Logistics,3717.57
+50269,2025-02-23,Sales & Marketing,COGS,Delta Supplies Co.,7958.14
+50270,2025-09-23,Logistics,Rent,Smart Office Rentals,9051.46
+50271,2025-02-02,Operations,Marketing,SocialReach Agency,6865.49
+50272,2025-01-04,Logistics,Salaries,Internal Payroll,13448.61
+50273,2025-12-02,Sales & Marketing,Salaries,Internal Payroll,29938.99
+50274,2025-05-14,Operations,Logistics,Nile Logistics,1873.65
+50275,2025-12-22,Admin,Software,CloudHost EG,1091.57
+50276,2025-10-11,Logistics,Utilities,City Utilities,1232.11
+50277,2025-04-22,Operations,COGS,Delta Supplies Co.,6124.42
+50278,2025-05-01,Sales & Marketing,Software,CloudHost EG,2339.99
+50279,2025-06-17,Logistics,Logistics,Swift Freight,2723.94
+50280,2025-07-14,Logistics,Software,OfficeSuite Ltd,2583.25
+50281,2025-12-24,Operations,COGS,Nile Foods Trading,14468.36
+50282,2025-04-30,Admin,Rent,Smart Office Rentals,8349.38
+50283,2025-10-27,Sales & Marketing,COGS,Delta Supplies Co.,3394.96
+50284,2025-02-27,Sales & Marketing,COGS,Nile Foods Trading,14728.9
+50285,2025-12-25,Operations,COGS,Delta Supplies Co.,4660.83
+50286,2025-11-26,Operations,Utilities,City Utilities,2026.21
+50287,2025-02-03,Admin,Software,CloudHost EG,2525.66
+50288,2025-10-01,Operations,Utilities,City Utilities,892.81
+50289,2025-04-16,Operations,Logistics,Nile Logistics,910.17
+50290,2025-11-21,Admin,COGS,Nile Foods Trading,4198.53
+50291,2025-02-20,Sales & Marketing,Software,OfficeSuite Ltd,1229.76
+50292,2025-08-05,Operations,Marketing,SocialReach Agency,3425.27
+50293,2025-05-25,Admin,COGS,Nile Foods Trading,12230.85
+50294,2025-11-05,Logistics,Rent,Smart Office Rentals,9709.66
+50295,2025-01-16,Logistics,Software,CloudHost EG,1534.77
+50296,2025-02-20,Logistics,Marketing,Cairo Ad Media,5534.1
+50297,2025-04-21,Operations,Utilities,City Utilities,1006.67
+50298,2025-01-01,Sales & Marketing,Rent,Smart Office Rentals,10573.09
+50299,2025-01-28,Admin,COGS,Nile Foods Trading,4148.27
+50300,2025-12-22,Sales & Marketing,Software,OfficeSuite Ltd,1940.64
+50301,2025-09-21,Sales & Marketing,Marketing,SocialReach Agency,7614.31
+50302,2025-12-25,Logistics,Logistics,Nile Logistics,1151.75
+50303,2025-11-22,Operations,Software,OfficeSuite Ltd,2448.58
+50304,2025-12-23,Operations,Rent,Smart Office Rentals,8133.7
+50305,2025-07-25,Operations,Salaries,Internal Payroll,27992.08
+50306,2025-01-13,Sales & Marketing,Marketing,SocialReach Agency,3473.97
+50307,2025-10-07,Sales & Marketing,Rent,Smart Office Rentals,11894.46
+50308,2025-11-19,Logistics,Logistics,Nile Logistics,2500.94
+50309,2025-12-19,Operations,Software,OfficeSuite Ltd,1912.11
+50310,2025-09-25,Logistics,Logistics,Swift Freight,1342.56
+50311,2025-08-13,Admin,Utilities,City Utilities,926.9
+50312,2025-08-25,Sales & Marketing,Utilities,City Utilities,1181.47
+50313,2025-12-27,Sales & Marketing,Software,CloudHost EG,2934.4
+50314,2025-06-17,Admin,Rent,Smart Office Rentals,7417.28
+50315,2025-04-07,Operations,Marketing,Cairo Ad Media,8717.89
+50316,2025-02-22,Logistics,Logistics,Nile Logistics,3948.26
+50317,2025-06-04,Admin,Utilities,City Utilities,1192.88
+50318,2025-02-25,Operations,Utilities,City Utilities,1071.6
+50319,2025-07-18,Operations,Salaries,Internal Payroll,19182.38
+50320,2025-08-12,Sales & Marketing,Utilities,City Utilities,1533.9
+50321,2025-03-14,Logistics,Marketing,Cairo Ad Media,7057.09
+50322,2025-08-09,Logistics,Utilities,City Utilities,1902.21
+50323,2025-12-01,Sales & Marketing,Software,CloudHost EG,2068.0
+50324,2025-08-21,Admin,Salaries,Internal Payroll,23308.98
+50325,2025-02-20,Sales & Marketing,Salaries,Internal Payroll,24836.71
+50326,2025-11-19,Admin,Logistics,Swift Freight,2344.78
+50327,2025-01-11,Logistics,Rent,Smart Office Rentals,11366.97
+50328,2025-06-17,Operations,Software,OfficeSuite Ltd,2562.87
+50329,2025-02-24,Admin,COGS,Alex Packaging,5614.58
+50330,2025-04-13,Admin,Rent,Smart Office Rentals,11082.96
+50331,2025-08-22,Sales & Marketing,Rent,Smart Office Rentals,9073.15
+50332,2025-11-24,Admin,Software,OfficeSuite Ltd,1466.91
+50333,2025-08-22,Sales & Marketing,Logistics,Swift Freight,2444.13
+50334,2025-03-04,Admin,Utilities,City Utilities,1154.42
+50335,2025-07-15,Operations,Salaries,Internal Payroll,13353.33
+50336,2025-08-04,Admin,Utilities,City Utilities,896.67
+50337,2025-06-05,Logistics,Utilities,City Utilities,2489.61
+50338,2025-07-20,Sales & Marketing,Salaries,Internal Payroll,14327.39
+50339,2025-02-05,Sales & Marketing,Software,OfficeSuite Ltd,2069.72
+50340,2025-04-26,Sales & Marketing,Software,OfficeSuite Ltd,2131.7
+50341,2025-07-31,Admin,Salaries,Internal Payroll,26037.24
+50342,2025-08-29,Sales & Marketing,Marketing,SocialReach Agency,6781.5
+50343,2025-12-18,Logistics,Marketing,Cairo Ad Media,5111.77
+50344,2025-05-24,Sales & Marketing,Marketing,SocialReach Agency,3902.4
+50345,2025-09-06,Operations,Salaries,Internal Payroll,14749.56
+50346,2025-06-05,Logistics,Software,CloudHost EG,621.73
+50347,2025-10-17,Sales & Marketing,Marketing,SocialReach Agency,6248.72
+50348,2025-01-08,Operations,Utilities,City Utilities,2413.18
+50349,2025-12-02,Admin,Marketing,Cairo Ad Media,5838.65
+50350,2025-04-30,Logistics,Logistics,Swift Freight,3311.63
+50351,2025-04-17,Sales & Marketing,Salaries,Internal Payroll,24032.24
+50352,2025-10-08,Admin,Software,CloudHost EG,1685.6
+50353,2025-04-20,Operations,Rent,Smart Office Rentals,10027.37
+50354,2025-03-01,Operations,Rent,Smart Office Rentals,8514.23
+50355,2025-03-13,Logistics,Salaries,Internal Payroll,20718.67
+50356,2025-03-15,Logistics,Utilities,City Utilities,1596.72
+50357,2025-10-04,Operations,Rent,Smart Office Rentals,11044.61
+50358,2025-08-28,Logistics,Utilities,City Utilities,2213.02
+50359,2025-07-11,Logistics,Salaries,Internal Payroll,15249.34
+50360,2025-07-04,Operations,Utilities,City Utilities,1797.42
+50361,2025-12-16,Admin,Utilities,City Utilities,1619.13
+50362,2025-09-06,Sales & Marketing,Software,CloudHost EG,954.74
+50363,2025-08-01,Sales & Marketing,Utilities,City Utilities,870.04
+50364,2025-12-04,Admin,Marketing,SocialReach Agency,7338.93
+50365,2025-10-11,Sales & Marketing,Software,OfficeSuite Ltd,1531.49
+50366,2025-08-05,Operations,Marketing,SocialReach Agency,3696.62
+50367,2025-09-10,Admin,Salaries,Internal Payroll,27713.36
+50368,2025-06-26,Logistics,Logistics,Nile Logistics,1858.87
+50369,2025-06-12,Admin,Utilities,City Utilities,1755.61
+50370,2025-11-22,Operations,COGS,Nile Foods Trading,11672.12
+50371,2025-07-27,Operations,Rent,Smart Office Rentals,7802.44
+50372,2025-01-04,Sales & Marketing,COGS,Nile Foods Trading,10304.23
+50373,2025-12-03,Logistics,COGS,Alex Packaging,4764.62
+50374,2025-12-11,Operations,Utilities,City Utilities,771.05
+50375,2025-11-21,Sales & Marketing,Salaries,Internal Payroll,23945.15
+50376,2025-01-19,Operations,Salaries,Internal Payroll,18639.65
+50377,2025-03-13,Admin,Software,OfficeSuite Ltd,2642.37
+50378,2025-04-05,Operations,Salaries,Internal Payroll,12367.06
+50379,2025-10-17,Operations,Utilities,City Utilities,1721.51
+50380,2025-01-21,Operations,Software,OfficeSuite Ltd,1895.84
+50381,2025-07-27,Operations,Salaries,Internal Payroll,24239.33
+50382,2025-11-01,Sales & Marketing,Rent,Smart Office Rentals,10619.32
+50383,2025-10-08,Operations,COGS,Alex Packaging,8666.31
+50384,2025-03-19,Operations,Utilities,City Utilities,708.61
+50385,2025-12-17,Operations,Utilities,City Utilities,1092.84
+50386,2025-03-04,Logistics,Logistics,Nile Logistics,1681.43
+50387,2025-10-19,Logistics,Logistics,Nile Logistics,3752.97
+50388,2025-07-07,Sales & Marketing,Software,CloudHost EG,1162.17
+50389,2025-10-13,Logistics,Utilities,City Utilities,1905.17
+50390,2025-05-11,Operations,COGS,Delta Supplies Co.,3726.61
+50391,2025-11-30,Operations,Utilities,City Utilities,1259.91
+50392,2025-11-04,Logistics,Logistics,Nile Logistics,1812.09
+50393,2025-10-22,Logistics,Utilities,City Utilities,1918.38
+50394,2025-03-16,Operations,Software,OfficeSuite Ltd,2880.12
+50395,2025-03-25,Logistics,Utilities,City Utilities,1394.33
+50396,2025-08-20,Admin,Marketing,SocialReach Agency,3599.3
+50397,2025-11-15,Admin,Utilities,City Utilities,2196.32
+50398,2025-11-04,Admin,Software,OfficeSuite Ltd,2938.61
+50399,2025-05-07,Logistics,Salaries,Internal Payroll,22832.08
+50400,2025-04-30,Logistics,Software,OfficeSuite Ltd,2190.24
+50401,2025-06-14,Admin,Marketing,SocialReach Agency,2679.6
+50402,2025-01-22,Sales & Marketing,Marketing,Cairo Ad Media,3553.87
+50403,2025-10-08,Logistics,Utilities,City Utilities,1662.2
+50404,2025-10-04,Logistics,Rent,Smart Office Rentals,7202.58
+50405,2025-04-30,Operations,Marketing,SocialReach Agency,4989.92
+50406,2025-04-16,Operations,Marketing,SocialReach Agency,4947.88
+50407,2025-02-14,Admin,Rent,Smart Office Rentals,7397.2
+50408,2025-10-24,Admin,Rent,Smart Office Rentals,8859.52
+50409,2025-10-29,Sales & Marketing,Logistics,Nile Logistics,1415.4
+50410,2025-04-03,Admin,Software,OfficeSuite Ltd,1902.45
+50411,2025-07-03,Sales & Marketing,Salaries,Internal Payroll,12802.7
+50412,2025-09-10,Operations,Marketing,SocialReach Agency,6245.57
+50413,2025-02-11,Admin,Logistics,Nile Logistics,1903.75
+50414,2025-09-23,Operations,Rent,Smart Office Rentals,6201.47
+50415,2025-10-17,Sales & Marketing,Salaries,Internal Payroll,28658.92
+50416,2025-05-24,Operations,Salaries,Internal Payroll,25810.48
+50417,2025-11-08,Admin,Logistics,Nile Logistics,1884.3
+50418,2025-04-03,Operations,Salaries,Internal Payroll,12917.96
+50419,2025-10-13,Logistics,Marketing,SocialReach Agency,8604.04
+50420,2025-02-02,Logistics,Software,CloudHost EG,2236.58
+50421,2025-02-16,Admin,Marketing,Cairo Ad Media,6304.75
+50422,2025-12-09,Logistics,Rent,Smart Office Rentals,8690.06
+50423,2025-03-23,Sales & Marketing,Marketing,Cairo Ad Media,2790.93
+50424,2025-05-12,Operations,Marketing,Cairo Ad Media,7779.13
+50425,2025-01-25,Logistics,Marketing,Cairo Ad Media,2257.93
+50426,2025-06-12,Operations,Software,CloudHost EG,2159.91
+50427,2025-06-02,Logistics,Rent,Smart Office Rentals,8824.35
+50428,2025-07-10,Logistics,Marketing,Cairo Ad Media,4312.37
+50429,2025-07-14,Logistics,Logistics,Nile Logistics,3384.17
+50430,2025-12-13,Logistics,COGS,Alex Packaging,13951.04
+50431,2025-01-19,Sales & Marketing,Logistics,Nile Logistics,3788.73
+50432,2025-07-11,Sales & Marketing,Utilities,City Utilities,2424.32
+50433,2025-07-17,Operations,Software,CloudHost EG,1576.07
+50434,2025-06-23,Sales & Marketing,Marketing,SocialReach Agency,2367.08
+50435,2025-07-07,Admin,Logistics,Nile Logistics,3155.4
+50436,2025-04-03,Logistics,Utilities,City Utilities,1490.15
+50437,2025-03-18,Logistics,Marketing,SocialReach Agency,3350.68
+50438,2025-01-14,Admin,Marketing,SocialReach Agency,7531.08
+50439,2025-05-14,Operations,Salaries,Internal Payroll,20211.32
+50440,2025-09-05,Sales & Marketing,COGS,Alex Packaging,3682.24
+50441,2025-12-09,Logistics,Logistics,Swift Freight,1181.41
+50442,2025-04-14,Logistics,Marketing,SocialReach Agency,8985.64
+50443,2025-05-02,Logistics,COGS,Nile Foods Trading,7987.63
+50444,2025-03-25,Admin,COGS,Delta Supplies Co.,14743.57
+50445,2025-01-09,Admin,Salaries,Internal Payroll,19974.15
+50446,2025-09-27,Sales & Marketing,Marketing,SocialReach Agency,4764.37
+50447,2025-07-29,Admin,Logistics,Nile Logistics,1241.84
+50448,2025-04-03,Sales & Marketing,Rent,Smart Office Rentals,7180.27
+50449,2025-02-10,Operations,Software,OfficeSuite Ltd,2379.33
+50450,2025-03-31,Sales & Marketing,Logistics,Nile Logistics,2665.39
+50451,2025-04-14,Operations,COGS,Alex Packaging,11792.58
+50452,2025-07-28,Operations,Software,OfficeSuite Ltd,1271.57
+50453,2025-11-24,Logistics,Software,CloudHost EG,440.16
+50454,2025-09-02,Admin,Logistics,Nile Logistics,1395.37
+50455,2025-07-07,Sales & Marketing,COGS,Alex Packaging,7453.98
+50456,2025-11-01,Operations,Software,OfficeSuite Ltd,1751.54
+50457,2025-08-17,Operations,Rent,Smart Office Rentals,8140.31
+50458,2025-05-06,Admin,Software,OfficeSuite Ltd,1898.41
+50459,2025-02-01,Operations,Marketing,SocialReach Agency,4848.29
+50460,2025-01-14,Sales & Marketing,Rent,Smart Office Rentals,7461.23
+50461,2025-02-15,Sales & Marketing,Logistics,Nile Logistics,1128.56
+50462,2025-05-09,Operations,Rent,Smart Office Rentals,6578.83
+50463,2025-12-24,Sales & Marketing,Utilities,City Utilities,731.84
+50464,2025-11-03,Logistics,Utilities,City Utilities,1964.76
+50465,2025-02-22,Operations,Marketing,Cairo Ad Media,1838.78
+50466,2025-03-05,Logistics,Salaries,Internal Payroll,13980.72
+50467,2025-03-04,Sales & Marketing,Salaries,Internal Payroll,27499.62
+50468,2025-03-17,Logistics,Utilities,City Utilities,995.78
+50469,2025-01-10,Logistics,Utilities,City Utilities,1774.67
+50470,2025-11-05,Operations,Rent,Smart Office Rentals,11822.95
+50471,2025-01-27,Admin,Software,OfficeSuite Ltd,1441.84
+50472,2025-06-21,Logistics,Utilities,City Utilities,2167.08
+50473,2025-10-15,Admin,COGS,Alex Packaging,4759.55
+50474,2025-12-15,Sales & Marketing,Marketing,SocialReach Agency,6473.39
+50475,2025-01-06,Operations,Marketing,Cairo Ad Media,2019.48
+50476,2025-08-10,Operations,Logistics,Nile Logistics,1246.1
+50477,2025-07-23,Logistics,Software,CloudHost EG,2504.1
+50478,2025-01-21,Admin,COGS,Alex Packaging,10481.65
+50479,2025-11-18,Operations,Rent,Smart Office Rentals,7503.49
+50480,2025-09-24,Logistics,COGS,Delta Supplies Co.,14410.39
+50481,2025-05-28,Admin,COGS,Nile Foods Trading,10770.24
+50482,2025-03-03,Admin,COGS,Delta Supplies Co.,8597.01
+50483,2025-10-01,Logistics,Logistics,Nile Logistics,2437.22
+50484,2025-05-31,Admin,Salaries,Internal Payroll,16381.21
+50485,2025-02-14,Admin,Utilities,City Utilities,1797.91
+50486,2025-10-19,Logistics,Logistics,Nile Logistics,2555.44
+50487,2025-07-07,Admin,Salaries,Internal Payroll,20441.38
+50488,2025-06-08,Sales & Marketing,COGS,Nile Foods Trading,5658.97
+50489,2025-09-20,Logistics,Rent,Smart Office Rentals,6071.27
+50490,2025-06-30,Sales & Marketing,Logistics,Swift Freight,2581.29
+50491,2025-09-09,Admin,Marketing,Cairo Ad Media,3716.28
+50492,2025-01-12,Operations,Logistics,Swift Freight,2207.96
+50493,2025-02-01,Logistics,Rent,Smart Office Rentals,8124.68
+50494,2025-02-25,Sales & Marketing,Rent,Smart Office Rentals,8500.51
+50495,2025-12-09,Sales & Marketing,Marketing,Cairo Ad Media,6122.22
+50496,2025-05-22,Operations,Software,OfficeSuite Ltd,1098.57
+50497,2025-11-19,Sales & Marketing,Utilities,City Utilities,2267.49
+50498,2025-01-03,Operations,Salaries,Internal Payroll,19154.88
+50499,2025-10-20,Logistics,Logistics,Swift Freight,3592.84
+50500,2025-11-07,Logistics,COGS,Nile Foods Trading,11311.72
+50501,2025-05-28,Admin,Utilities,City Utilities,1335.32
+50502,2025-09-27,Logistics,Rent,Smart Office Rentals,6040.57
+50503,2025-09-13,Logistics,Salaries,Internal Payroll,15315.81
+50504,2025-06-05,Sales & Marketing,Software,OfficeSuite Ltd,1896.13
+50505,2025-10-25,Operations,Logistics,Swift Freight,1836.37
+50506,2025-11-08,Sales & Marketing,Software,OfficeSuite Ltd,931.2
+50507,2025-08-07,Operations,COGS,Delta Supplies Co.,6078.58
+50508,2025-09-12,Admin,Marketing,SocialReach Agency,5380.86
+50509,2025-09-22,Logistics,Utilities,City Utilities,1535.65
+50510,2025-01-21,Admin,Rent,Smart Office Rentals,11687.4
+50511,2025-12-13,Sales & Marketing,COGS,Delta Supplies Co.,7914.23
+50512,2025-09-14,Sales & Marketing,Salaries,Internal Payroll,29360.48
+50513,2025-09-07,Logistics,Salaries,Internal Payroll,24448.41
+50514,2025-02-17,Admin,Logistics,Swift Freight,1973.3
+50515,2025-02-08,Admin,Software,CloudHost EG,687.33
+50516,2025-05-31,Admin,Utilities,City Utilities,1835.98
+50517,2025-09-26,Sales & Marketing,Marketing,Cairo Ad Media,4591.95
+50518,2025-01-31,Operations,Utilities,City Utilities,1725.76
+50519,2025-11-20,Operations,Utilities,City Utilities,719.32
+50520,2025-01-02,Operations,Marketing,SocialReach Agency,4481.75
+50521,2025-02-20,Operations,Rent,Smart Office Rentals,7179.9
+50522,2025-09-12,Admin,Software,CloudHost EG,1893.62
+50523,2025-07-30,Operations,Rent,Smart Office Rentals,6940.62
+50524,2025-09-18,Operations,COGS,Delta Supplies Co.,3913.56
+50525,2025-09-25,Logistics,Salaries,Internal Payroll,26518.8
+50526,2025-02-01,Operations,Utilities,City Utilities,959.07
+50527,2025-05-02,Admin,Marketing,Cairo Ad Media,1746.68
+50528,2025-11-18,Operations,COGS,Nile Foods Trading,5299.83
+50529,2025-11-16,Operations,Salaries,Internal Payroll,15960.86
+50530,2025-07-22,Operations,Rent,Smart Office Rentals,6327.51
+50531,2025-05-03,Sales & Marketing,Logistics,Nile Logistics,1310.09
+50532,2025-10-28,Sales & Marketing,Software,OfficeSuite Ltd,416.02
+50533,2025-08-22,Logistics,Marketing,SocialReach Agency,8700.22
+50534,2025-09-11,Sales & Marketing,COGS,Alex Packaging,7677.54
+50535,2025-10-27,Logistics,Logistics,Swift Freight,2075.51
+50536,2025-12-31,Operations,Salaries,Internal Payroll,13574.38
+50537,2025-03-29,Logistics,Marketing,Cairo Ad Media,1557.24
+50538,2025-05-29,Admin,Salaries,Internal Payroll,18030.26
+50539,2025-07-17,Logistics,Marketing,Cairo Ad Media,8709.21
+50540,2025-08-05,Admin,Software,CloudHost EG,1407.15
+50541,2025-08-28,Admin,Marketing,Cairo Ad Media,4766.82
+50542,2025-05-23,Operations,Utilities,City Utilities,2148.77
+50543,2025-05-04,Sales & Marketing,Utilities,City Utilities,1053.33
+50544,2025-10-06,Sales & Marketing,Software,OfficeSuite Ltd,1614.34
+50545,2025-05-03,Admin,Logistics,Swift Freight,1492.72
+50546,2025-07-27,Sales & Marketing,Salaries,Internal Payroll,29116.9
+50547,2025-09-16,Sales & Marketing,Logistics,Swift Freight,2960.97
+50548,2025-12-28,Logistics,Marketing,SocialReach Agency,5509.96
+50549,2025-07-26,Sales & Marketing,Rent,Smart Office Rentals,11234.34
+50550,2025-03-04,Operations,Utilities,City Utilities,2024.69
+50551,2025-07-17,Sales & Marketing,COGS,Nile Foods Trading,3180.0
+50552,2025-12-30,Sales & Marketing,COGS,Delta Supplies Co.,6852.45
+50553,2025-12-06,Operations,COGS,Alex Packaging,13966.2
+50554,2025-09-14,Admin,Software,CloudHost EG,571.37
+50555,2025-06-09,Sales & Marketing,COGS,Nile Foods Trading,4513.59
+50556,2025-07-24,Admin,Marketing,SocialReach Agency,7832.72
+50557,2025-08-26,Sales & Marketing,Software,OfficeSuite Ltd,858.62
+50558,2025-07-07,Admin,Utilities,City Utilities,745.47
+50559,2025-12-27,Logistics,Utilities,City Utilities,2499.89
+50560,2025-07-25,Operations,Marketing,Cairo Ad Media,3686.07
+50561,2025-05-19,Sales & Marketing,Rent,Smart Office Rentals,8427.97
+50562,2025-11-08,Logistics,Logistics,Nile Logistics,3222.27
+50563,2025-03-21,Operations,Salaries,Internal Payroll,23330.2
+50564,2025-04-02,Sales & Marketing,Rent,Smart Office Rentals,10299.8
+50565,2025-05-11,Admin,Salaries,Internal Payroll,14013.7
+50566,2025-12-02,Operations,Marketing,Cairo Ad Media,8805.96
+50567,2025-12-15,Operations,COGS,Nile Foods Trading,5521.67
+50568,2025-06-26,Operations,Utilities,City Utilities,1950.42
+50569,2025-07-21,Sales & Marketing,Utilities,City Utilities,1649.18
+50570,2025-06-28,Logistics,Salaries,Internal Payroll,24449.17
+50571,2025-12-19,Logistics,Software,CloudHost EG,2159.13
+50572,2025-04-16,Sales & Marketing,Salaries,Internal Payroll,25714.6
+50573,2025-01-23,Admin,Utilities,City Utilities,1683.53
+50574,2025-11-23,Admin,Logistics,Nile Logistics,3883.54
+50575,2025-03-28,Admin,Marketing,SocialReach Agency,2194.05
+50576,2025-11-22,Sales & Marketing,Marketing,Cairo Ad Media,6646.74
+50577,2025-09-07,Logistics,Utilities,City Utilities,1970.12
+50578,2025-01-04,Logistics,Rent,Smart Office Rentals,11615.06
+50579,2025-06-29,Admin,Utilities,City Utilities,2292.43
+50580,2025-03-14,Sales & Marketing,Rent,Smart Office Rentals,9776.41
+50581,2025-03-02,Logistics,Rent,Smart Office Rentals,10062.15
+50582,2025-03-21,Logistics,Rent,Smart Office Rentals,10987.03
+50583,2025-02-28,Admin,Utilities,City Utilities,1348.87
+50584,2025-04-16,Operations,COGS,Nile Foods Trading,6646.84
+50585,2025-02-26,Admin,Utilities,City Utilities,2433.19
+50586,2025-03-24,Logistics,Marketing,SocialReach Agency,5768.89
+50587,2025-05-29,Operations,Logistics,Nile Logistics,834.61
+50588,2025-09-06,Admin,COGS,Alex Packaging,9763.84
+50589,2025-02-25,Logistics,Utilities,City Utilities,1579.02
+50590,2025-10-06,Operations,Marketing,SocialReach Agency,8396.67
+50591,2025-11-26,Admin,Marketing,Cairo Ad Media,2086.09
+50592,2025-01-15,Logistics,COGS,Delta Supplies Co.,6555.78
+50593,2025-04-06,Sales & Marketing,Utilities,City Utilities,2112.31
+50594,2025-06-08,Admin,Utilities,City Utilities,1032.18
+50595,2025-07-02,Sales & Marketing,Marketing,SocialReach Agency,2522.57
+50596,2025-07-09,Admin,Software,CloudHost EG,550.08
+50597,2025-02-24,Logistics,Rent,Smart Office Rentals,11669.6
+50598,2025-09-11,Logistics,Salaries,Internal Payroll,29921.4
+50599,2025-11-05,Operations,Rent,Smart Office Rentals,10127.9
+50600,2025-03-25,Logistics,Logistics,Swift Freight,1086.92
+50601,2025-01-21,Logistics,Software,OfficeSuite Ltd,896.12
+50602,2025-07-10,Operations,COGS,Alex Packaging,13263.93
+50603,2025-09-19,Sales & Marketing,Salaries,Internal Payroll,13295.9
+50604,2025-01-29,Logistics,Rent,Smart Office Rentals,6376.31
+50605,2025-01-05,Sales & Marketing,Utilities,City Utilities,1381.88
+50606,2025-01-03,Admin,Salaries,Internal Payroll,20439.08
+50607,2025-10-05,Logistics,Marketing,SocialReach Agency,8784.72
+50608,2025-11-17,Sales & Marketing,Software,OfficeSuite Ltd,2900.73
+50609,2025-11-14,Operations,COGS,Alex Packaging,11117.35
+50610,2025-11-08,Admin,Utilities,City Utilities,2415.06
+50611,2025-09-04,Sales & Marketing,Utilities,City Utilities,2257.47
+50612,2025-09-29,Operations,Utilities,City Utilities,1100.47
+50613,2025-08-18,Operations,Utilities,City Utilities,1888.87
+50614,2025-07-10,Logistics,Rent,Smart Office Rentals,9179.87
+50615,2025-10-17,Logistics,Salaries,Internal Payroll,14056.56
+50616,2025-04-03,Operations,Logistics,Nile Logistics,3558.96
+50617,2025-05-10,Operations,Utilities,City Utilities,1655.4
+50618,2025-05-09,Logistics,Utilities,City Utilities,1697.24
+50619,2025-04-26,Operations,Rent,Smart Office Rentals,11109.22
+50620,2025-12-14,Logistics,COGS,Delta Supplies Co.,13361.72
+50621,2025-10-09,Operations,Rent,Smart Office Rentals,8759.92
+50622,2025-12-18,Sales & Marketing,Salaries,Internal Payroll,22134.6
+50623,2025-02-17,Admin,Logistics,Nile Logistics,2093.94
+50624,2025-01-25,Operations,Marketing,Cairo Ad Media,6764.48
+50625,2025-04-20,Admin,Salaries,Internal Payroll,24733.68
+50626,2025-08-07,Sales & Marketing,COGS,Alex Packaging,4376.53
+50627,2025-07-01,Admin,Logistics,Swift Freight,3373.15
+50628,2025-12-15,Admin,COGS,Delta Supplies Co.,5871.6
+50629,2025-09-20,Admin,Utilities,City Utilities,778.31
+50630,2025-11-06,Operations,Marketing,SocialReach Agency,5616.25
+50631,2025-11-05,Operations,COGS,Alex Packaging,5909.4
+50632,2025-07-01,Logistics,Logistics,Nile Logistics,3482.12
+50633,2025-10-25,Operations,Salaries,Internal Payroll,20784.86
+50634,2025-02-07,Admin,Software,CloudHost EG,790.64
+50635,2025-05-29,Logistics,Software,CloudHost EG,1929.62
+50636,2025-05-09,Admin,Rent,Smart Office Rentals,6082.8
+50637,2025-06-25,Logistics,Logistics,Swift Freight,3593.79
+50638,2025-01-19,Sales & Marketing,COGS,Alex Packaging,12819.58
+50639,2025-12-14,Logistics,Rent,Smart Office Rentals,11805.18
+50640,2025-12-21,Logistics,Software,OfficeSuite Ltd,995.94
+50641,2025-11-09,Operations,Rent,Smart Office Rentals,7975.63
+50642,2025-04-21,Sales & Marketing,Marketing,Cairo Ad Media,3085.35
+50643,2025-07-04,Logistics,Utilities,City Utilities,1738.68
+50644,2025-07-18,Admin,Marketing,Cairo Ad Media,4016.29
+50645,2025-09-05,Sales & Marketing,Marketing,Cairo Ad Media,3365.55
+50646,2025-11-08,Sales & Marketing,COGS,Alex Packaging,11051.69
+50647,2025-05-20,Admin,Salaries,Internal Payroll,21000.03
+50648,2025-05-15,Sales & Marketing,Marketing,Cairo Ad Media,8362.91
+50649,2025-02-18,Sales & Marketing,Software,OfficeSuite Ltd,2046.06
+50650,2025-11-21,Admin,COGS,Nile Foods Trading,12516.51
+50651,2025-05-02,Sales & Marketing,Software,CloudHost EG,1190.39
+50652,2025-06-24,Admin,Utilities,City Utilities,1330.77
+50653,2025-10-09,Logistics,Utilities,City Utilities,808.81
+50654,2025-06-22,Admin,Utilities,City Utilities,1606.72
+50655,2025-05-05,Sales & Marketing,Software,OfficeSuite Ltd,792.11
+50656,2025-04-16,Logistics,COGS,Nile Foods Trading,8346.22
+50657,2025-10-19,Admin,Software,CloudHost EG,1925.66
+50658,2025-03-15,Admin,Marketing,SocialReach Agency,6949.91
+50659,2025-10-10,Admin,Utilities,City Utilities,2358.2
+50660,2025-10-26,Sales & Marketing,COGS,Nile Foods Trading,9965.77
+50661,2025-08-28,Logistics,Marketing,Cairo Ad Media,7789.4
+50662,2025-06-13,Admin,Logistics,Swift Freight,2548.75
+50663,2025-03-26,Admin,Utilities,City Utilities,1967.91
+50664,2025-04-22,Logistics,COGS,Nile Foods Trading,5404.17
+50665,2025-11-05,Operations,Marketing,Cairo Ad Media,3313.02
+50666,2025-01-30,Operations,Logistics,Nile Logistics,1035.02
+50667,2025-10-22,Sales & Marketing,Marketing,Cairo Ad Media,2911.33
+50668,2025-10-02,Operations,Utilities,City Utilities,2361.2
+50669,2025-04-19,Admin,Marketing,Cairo Ad Media,6367.0
+50670,2025-07-27,Admin,Rent,Smart Office Rentals,6344.69
+50671,2025-08-01,Operations,Software,CloudHost EG,2028.41
+50672,2025-06-21,Logistics,Software,OfficeSuite Ltd,1068.25
+50673,2025-08-26,Operations,Software,CloudHost EG,2805.75
+50674,2025-10-16,Admin,Utilities,City Utilities,1447.24
+50675,2025-12-30,Admin,Utilities,City Utilities,868.21
+50676,2025-03-21,Sales & Marketing,Logistics,Nile Logistics,1945.1
+50677,2025-07-05,Admin,Salaries,Internal Payroll,23832.47
+50678,2025-11-05,Admin,Rent,Smart Office Rentals,10446.5
+50679,2025-05-13,Logistics,Software,CloudHost EG,2417.58
+50680,2025-06-08,Logistics,Utilities,City Utilities,1350.44
+50681,2025-09-29,Sales & Marketing,Marketing,SocialReach Agency,1567.8
+50682,2025-09-01,Admin,COGS,Delta Supplies Co.,14874.3
+50683,2025-04-27,Operations,Salaries,Internal Payroll,23243.34
+50684,2025-03-04,Sales & Marketing,COGS,Alex Packaging,12328.45
+50685,2025-05-13,Admin,Rent,Smart Office Rentals,11417.14
+50686,2025-03-24,Operations,Rent,Smart Office Rentals,10668.63
+50687,2025-05-05,Logistics,Salaries,Internal Payroll,23450.26
+50688,2025-06-26,Logistics,Software,OfficeSuite Ltd,951.44
+50689,2025-01-14,Operations,COGS,Delta Supplies Co.,12681.02
+50690,2025-07-25,Admin,Utilities,City Utilities,1110.61
+50691,2025-07-12,Logistics,Salaries,Internal Payroll,12552.72
+50692,2025-01-11,Logistics,Marketing,Cairo Ad Media,3235.35
+50693,2025-04-15,Logistics,Marketing,SocialReach Agency,3738.45
+50694,2025-09-13,Sales & Marketing,Logistics,Swift Freight,3561.82
+50695,2025-05-17,Sales & Marketing,Software,OfficeSuite Ltd,1134.67
+50696,2025-06-19,Logistics,COGS,Delta Supplies Co.,4939.17
+50697,2025-12-16,Logistics,Rent,Smart Office Rentals,9475.35
+50698,2025-04-18,Admin,Software,CloudHost EG,2427.52
+50699,2025-08-13,Logistics,Logistics,Nile Logistics,3983.43
+50700,2025-06-02,Operations,Utilities,City Utilities,973.47
+50701,2025-01-05,Admin,Logistics,Nile Logistics,2408.41
+50702,2025-06-30,Sales & Marketing,COGS,Nile Foods Trading,11193.23
+50703,2025-02-16,Admin,Salaries,Internal Payroll,27875.12
+50704,2025-01-17,Sales & Marketing,Rent,Smart Office Rentals,10752.67
+50705,2025-12-20,Operations,COGS,Delta Supplies Co.,9057.37
+50706,2025-04-29,Logistics,Rent,Smart Office Rentals,10371.03
+50707,2025-01-25,Operations,Marketing,Cairo Ad Media,2403.48
+50708,2025-09-07,Logistics,Logistics,Nile Logistics,1372.74
+50709,2025-12-17,Sales & Marketing,Rent,Smart Office Rentals,9179.59
+50710,2025-09-12,Admin,COGS,Delta Supplies Co.,13238.12
+50711,2025-04-25,Operations,Utilities,City Utilities,1966.45
+50712,2025-01-08,Admin,Marketing,Cairo Ad Media,8747.44
+50713,2025-04-11,Operations,Rent,Smart Office Rentals,10737.11
+50714,2025-07-05,Operations,Marketing,SocialReach Agency,6661.08
+50715,2025-12-01,Admin,Salaries,Internal Payroll,24425.18
+50716,2025-05-18,Logistics,Salaries,Internal Payroll,21719.94
+50717,2025-07-16,Logistics,Logistics,Swift Freight,3621.37
+50718,2025-03-15,Operations,Utilities,City Utilities,1794.09
+50719,2025-05-11,Logistics,Utilities,City Utilities,2186.0
